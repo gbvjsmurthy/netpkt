@@ -1,0 +1,9 @@
+build/
+
+results/*
+!results/.gitkeep
+assets/*
+!assets/.gitkeep
+*.mp4
+*.avi
+*.mkv
